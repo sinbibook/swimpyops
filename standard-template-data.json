@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-13T06:52:09.329195676Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-13T07:19:08.813528514Z",
     "templateType": "trip_g",
     "propertyId": "98702147-ea0f-4817-88df-bba2c52d7455",
     "homepageId": "01a13360-7139-75da-aaae-52fab4f3c47c"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "swimpyops.com",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/2611",
     "ybsId": "59739",
     "tripPropertyId": "2611",
     "partnerType": "sales_agency",
